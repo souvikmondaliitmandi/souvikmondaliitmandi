@@ -3,7 +3,7 @@
 ### AI Product Manager · MBA, IIT Mandi (Data Science & AI)
 
 ---
-
+ 
 > Building products at the intersection of AI, data, and user insight.
 > Currently driving AI go-to-market strategy at Webisdom while targeting
 > AI Product Manager roles across India.
