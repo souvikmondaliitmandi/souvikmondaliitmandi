@@ -1,4 +1,4 @@
-# solid-memory
+# souvikmondaliitmandi
 My personal repository.
 # Souvik Mondal
 
